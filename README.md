@@ -1,5 +1,7 @@
 # HLA_WGS_UKB
-Code availability for "HLA region genetic structure in British African population: new patterns inferred from whole genome sequencing data in the UK Biobank"
+Code availability for "Uncovering genetic diversity and admixture of British African with HLA alleles inferred from whole genome sequencing"
+Journal: European Journal of Human Genetics
+DOI: 10.1038/s41431-025-01888-9
 
 ## Pipeline for this study
 ### 01 HLA calling using WGS
@@ -9,3 +11,6 @@ Code availability for "HLA region genetic structure in British African populatio
 #### 02-1 Global (ADMIXTURE) 
 #### 02-2 Local (MHC-based, RFmix v2)
 ### 03 Population genetics charateristic (PyPop)
+
+## Contact
+Please direct any problems or questions to Yunjia Liu (yliu2@hfhs.org).
