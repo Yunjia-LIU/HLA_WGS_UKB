@@ -1,4 +1,4 @@
-#02-2 RFMix2 analysis
+# 02-2 RFMix2 analysis
 ### Tutorial: https://github.com/slowkoni/rfmix
 
 ## extract the MHC region
