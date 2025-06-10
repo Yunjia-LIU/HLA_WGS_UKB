@@ -1,6 +1,8 @@
 # HLA_WGS_UKB
 Code availability for "Uncovering genetic diversity and admixture of British African with HLA alleles inferred from whole genome sequencing"
+
 Journal: European Journal of Human Genetics
+
 DOI: 10.1038/s41431-025-01888-9
 
 ## Pipeline for this study
