@@ -1,5 +1,6 @@
 # 02-2 RFMix2 analysis
-### Tutorial: https://github.com/slowkoni/rfmix
+### Tutorial 1: https://github.com/slowkoni/rfmix
+### Tutorial 2: https://github.com/armartin/ancestry_pipeline
 
 ## extract the MHC region
 ```bash
